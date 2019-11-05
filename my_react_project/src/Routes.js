@@ -6,6 +6,7 @@ import SignUp from './component/SignUp.js';
 import Home from './component/Home.js';
 import VisitorsLogin from './component/VisitorsLogin.js';
 import MemberLogin from './component/MemberLogin.js';
+import './component/Body.css';
 
 class AppRoutes extends React.Component{
     render(){
