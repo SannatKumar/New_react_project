@@ -1,0 +1,13 @@
+#appfooter{
+    height: 25%;
+    min-width: 100%;
+    background: black;
+    color: blanchedalmond;
+    position: absolute;
+    bottom: 0;
+}
+.apptitle{
+    text-align: center;
+}
+
+
