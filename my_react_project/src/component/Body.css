@@ -1,3 +1,7 @@
-#approutes-content{
+.routes-footer{
     background:skyblue;
 }
+body,html {
+    height: 700px;
+}
+
